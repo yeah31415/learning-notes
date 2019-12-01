@@ -33,7 +33,7 @@ ISO++标准(C++98/03和C++11)为保证在不同计算机硬件平台、软件实
 
 [创建可执行程序的过程](https://github.com/yeah31415/learning-notes/blob/master/Cpp_Primer_Plus/Chapter1_Programming_Steps.JPG)
 
-绘图方法：
+绘图方法如下
 ```mermaid
 graph TD;
     A[源代码]-->B[编译器];
