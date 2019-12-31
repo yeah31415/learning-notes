@@ -30,7 +30,7 @@
 
 * [第三章 				代码中的坏味道、如何用重构来清除（WHERE、HOW策略/解决方案)](https://github.com/yeah31415/learning-notes/blob/master/Refactoring/Chapter3_Bad_Smell_of_Code.md)
 
-* [第四章 				重构所需的测试（单元测试）]()
+* 第四章 				重构所需的测试（单元测试）
 
 * [第五章~第十二章 	**重构名录**：重构的关键手法、例子（HOW方法）](https://github.com/yeah31415/learning-notes/blob/master/Refactoring/Chapter5-12_Methods_of_Refactoring.md)
 
