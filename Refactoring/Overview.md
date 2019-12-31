@@ -24,18 +24,17 @@
 
 ### 1.6 本书结构
 
-* [第一章 				一个小程序进行重构的例子（重构的过程）]()
+* [第一章 				一个小程序进行重构的例子（重构的过程）](https://github.com/yeah31415/learning-notes/blob/master/Refactoring/Chapter1_A_Sample_of_Refactoring.md)
 
-* [第二章 				重构的一般性原则、重构的原因（WHAT、WHY）]()
+* [第二章 				重构的原因、重构的机遇和挑战（WHAT、WHY、WHEN）](https://github.com/yeah31415/learning-notes/blob/master/Refactoring/Chapter2_Principle_of_Refactoring.md)
 
-* [第三章 				代码中的坏味道、如何用重构来清除（WHERE、HOW策略/解决方案)]()
+* [第三章 				代码中的坏味道、如何用重构来清除（WHERE、HOW策略/解决方案)](https://github.com/yeah31415/learning-notes/blob/master/Refactoring/Chapter3_Bad_Smell_of_Code.md)
 
 * [第四章 				重构所需的测试（单元测试）]()
 
-* [第五章~第十二章 	**重构名录**：重构的关键手法、例子（HOW方法）]()
+* [第五章~第十二章 	**重构名录**：重构的关键手法、例子（HOW方法）](https://github.com/yeah31415/learning-notes/blob/master/Refactoring/Chapter5-12_Methods_of_Refactoring.md)
 
 * 建议：在重构过程中时常查阅**代码中的坏味道**和**重构名录**以获得帮助。
-
 
 ## 2 应用与回顾
 
